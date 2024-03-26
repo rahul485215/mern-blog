@@ -23,7 +23,7 @@ export default function Home() {
           international news, economics, and sports.
         </p>
         <Link
-          to='/search'
+          to='/sign-in'
           className='text-xs sm:text-sm text-teal-500 font-bold hover:underline'
         >
           View all posts
@@ -43,7 +43,7 @@ export default function Home() {
               ))}
             </div>
             <Link
-              to={'/search'}
+              to={'/sign-in'}
               className='text-lg text-teal-500 hover:underline text-center'
             >
               View all posts
