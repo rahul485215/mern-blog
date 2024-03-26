@@ -132,6 +132,7 @@ export default function Search() {
             >
               <option value="uncategorized">Select a category</option>
                     <option value="international news">International news</option>
+                    <option value="national news">National news</option>
                     <option value="local news">Local news</option>
                     <option value="entertainment">Entertainment</option>
                     <option value="education">Education</option>
